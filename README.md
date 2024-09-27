@@ -1,4 +1,4 @@
-# CS-141-Layered-Pine-Tree
+# Layered-Pine-Tree
 Project 1 of CS 141 (UIC): Layered Pine Tree
 
 This was one of my first pieces of code in C++
